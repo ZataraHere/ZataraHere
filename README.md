@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **shabazekhan768@gmail.com**
 
-- ⚡ Fun fact **tech and tradition blender**
+- ⚡ Fun fact **tech and tradition blender** 
 
+
+![coding_lofi](https://github.com/user-attachments/assets/c9f57f0a-6268-43ec-a21d-1ace4baa4450)
 
 
 
