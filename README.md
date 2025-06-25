@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shabaze Khan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zatarahere&label=Profile%20views&color=0e75b6&style=flat" alt="zatarahere" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zatarahere&label=Profile%20views&color=0e75b6&style= flat" alt="zatarahere" /> </p>
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
@@ -11,10 +11,12 @@
 
 - 📫 How to reach me **shabazekhan768@gmail.com**
 
-- ⚡ Fun fact **tech and tradition blender** 
+- ⚡ Fun fact **tech and tradition blender**
 
-
-![coding_lofi](https://github.com/user-attachments/assets/c9f57f0a-6268-43ec-a21d-1ace4baa4450)
+  
+<img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="50%" style="float: right;" >    
+    
+<!---![coding_lofi](https://github.com/user-attachments/assets/c9f57f0a-6268-43ec-a21d-1ace4baa4450)--->
 
 
 
