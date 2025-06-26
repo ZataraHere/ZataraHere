@@ -1,8 +1,18 @@
+<img src="https://digitalandaiart.com/wp-content/uploads/2023/03/GWalker_TAGuild_art_in_the_style_of_van_gogh._c0399465-9fcd-4cf8-ab85-3a24b214b7ca.jpg"
+     alt="zatarahere"
+     style="width:100%; height:200px; object-fit:cover; object-position:top;">
+
+
+
 <h1 align="center">Hi 👋, I'm Shabaze Khan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast</h3>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zatarahere&label=Profile%20views&color=0e75b6&style=flat" alt="zatarahere" /> </p>
+
+
+  
+<img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="50%" align="right" alt="Coding Lofi">
 
 
 - 🌱 I’m currently learning **Reinforcement Learning**
@@ -13,10 +23,8 @@
 
 - 📫 How to reach me **shabazekhan768@gmail.com**
 
-- ⚡ Fun fact **tech and tradition blender**
+- ⚡ Fun fact **tech and tradition blender** 
   
-  
-  <img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true"  style="float: right;" alt="Coding Lofi">
 
 
 <h3 align="left">Connect with me:</h3>
