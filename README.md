@@ -15,7 +15,7 @@
 <img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="50%" align="right" alt="Coding Lofi">
 
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Gen AI using LangChain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZataraHere?tab=repositories](https://github.com/ZataraHere?tab=repositories)
 
