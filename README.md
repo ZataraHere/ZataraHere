@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hello 👋, I'm Shabaze Khan</h1>
+<h1 align="center">Hi there 👋 I'm Shabaze Khan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast</h3>
  
 
@@ -15,7 +15,7 @@
 <img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="50%" align="right" alt="Coding Lofi">
 
 
-- 🌱 I’m currently learning **Gen AI using LangChain and DSA**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZataraHere?tab=repositories](https://github.com/ZataraHere?tab=repositories)
 
