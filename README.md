@@ -12,7 +12,7 @@
 
 
   
-<img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="50%" align="right" alt="Coding Lofi">
+<img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="300%" align="right" alt="Coding Lofi">
 
 
 - 🌱 I’m currently learning **SQL**
