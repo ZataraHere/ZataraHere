@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi there 👋 I'm Shabaze Khan</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Machine Learning Developer</h3>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zatarahere&label=Profile%20views&color=0e75b6&style=flat" alt="zatarahere" /> </p>
