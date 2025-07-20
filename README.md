@@ -15,7 +15,7 @@
 <img src="https://github.com/ZataraHere/ZataraHere/blob/main/coding_lofi.gif?raw=true" width="50%" height="300%" align="right" alt="Coding Lofi">
 
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZataraHere?tab=repositories](https://github.com/ZataraHere?tab=repositories)
 
