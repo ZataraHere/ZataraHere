@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shabazekhan768@gmail.com**
 
-- ⚡ Fun fact **🌟** 
+
   
 
 
