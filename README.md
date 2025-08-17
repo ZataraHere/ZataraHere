@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Generative AI & Exploratory Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZataraHere?tab=repositories](https://github.com/ZataraHere?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/ZataraHere?tab=repositories)
 
 - 💬 Ask me about **Deep Learning and Machine Learning**
 
