@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Deep Learning and Machine Learning**
 
-- 📫 How to reach me **shabazekhan768@gmail.com**
+- 📫 Mail me at **shabazekhan768@gmail.com**
 
 
   
